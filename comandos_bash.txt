@@ -1,0 +1,17 @@
+ls - lista o diretório
+
+cd “nome da pasta” - você vai para pasta
+
+cd .. “volta para o diretório anterior”
+
+pwd - mostra o caminho completo até o diretório atual
+
+toda pasta tem dois arquivos, sendo um arquivo “.” e outro arquivo “..”
+
+ls -a mostra os arquivos ocultos como os arquivos “.” e “..”
+
+“..” é a pasta mãe da pasta atual
+
+“.” é a referência da pasta para ela mesma
+
+mkdir para criar pasta
