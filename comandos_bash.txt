@@ -15,3 +15,7 @@ ls -a mostra os arquivos ocultos como os arquivos “.” e “..”
 “.” é a referência da pasta para ela mesma
 
 mkdir para criar pasta
+
+cat - exibe conteúdo do arquivo
+
+rm - remove arquivo ou diretório
