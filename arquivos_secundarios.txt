@@ -4,3 +4,4 @@ Esse arquivo contém informações dos arquivo secundário.
 
 Estou colocando novas informações!
 
+novos comandos malucos
