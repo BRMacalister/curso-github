@@ -8,3 +8,6 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Além disso, vamos trabalhar com Gitflow ao final do curso e Visual Studio Code.
 
+Participantes:
+
+-- Flávio
