@@ -15,7 +15,7 @@ Além disso, vamos trabalhar com Gitflow ao final do curso e Visual Studio Code.
 
 Participantes:
 
-\-- Flávio
+\-- Flávio Maccari
 
 
 
